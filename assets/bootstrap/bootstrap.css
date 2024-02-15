@@ -349,13 +349,13 @@ textarea {
 
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
-  color: #fff;
+  color: #000;
 	background-color: #BEB45A;
 	border-radius:0 ;
 }
 
 .active-tag {
-  color: #fff;
+  color: #000;
 	background-color: #BEB45A;
 	border-radius:0 ;
 }
